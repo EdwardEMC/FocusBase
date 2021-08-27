@@ -1,0 +1,26 @@
+Install notes:
+
+Import Vive Registry Tool to unity
+Add Vive register from auto pop up window
+
+//Import VIU settings
+
+Install XR Plugin Management
+
+Use Vive register to import
+- Vive Input Utility
+- Vive Wave XR Plugin
+- Vive Essence?
+- Vive Native?
+
+Edit -> preferences -> VIU Settings
+Tick Simulator
+
+Switch platform to WaveXR
+Tick WaveXR
+
+Add Wave XR Plugin Package (if not already ticked project settings -> XR plug-in management)
+
+Ready to go.
+
+
